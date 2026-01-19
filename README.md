@@ -23,9 +23,9 @@ Software + Data
 
 <p align="left"> <a href="https://www.github.com/Niekelle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/niekelle-bloomfield-hunter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<!-- ### Badges
 
-<b>Stats</b>
+<b>Stats</b> -->
 
 <!-- <a href="http://www.github.com/Niekelle"><img src="https://github-readme-stats.vercel.app/api?username=Niekelle&show_icons=true&hide=issues,&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="Niekelle's GitHub stats" /></a> 
 

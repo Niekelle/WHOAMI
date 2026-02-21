@@ -1,0 +1,2 @@
+# WHOAMI
+About me :)
